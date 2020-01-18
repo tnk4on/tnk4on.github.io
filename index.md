@@ -9,4 +9,6 @@ Blog: [Hatena Blog](https://tnk4on.hatenablog.com/) / [Qiita](https://qiita.com/
 
 Git: [GitHub](https://github.com/tnk4on)
 
+Docs: [Speaker Deck](https://speakerdeck.com/tnk4on)
+
 Other: [Amazon Wishlist](https://www.amazon.co.jp/hz/wishlist/ls/287KX2D6E940M)
