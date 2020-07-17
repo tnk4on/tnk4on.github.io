@@ -7,7 +7,7 @@ My name is Shion Tanaka. I work as a Solution Architect for Red Hat at the Kyush
 
 # Tweet
 
-<a class="twitter-timeline" href="https://twitter.com/tnk4on?ref_src=twsrc%5Etfw">Tweets by tnk4on</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" data-width="400" data-height="400" data-theme="dark" href="https://twitter.com/tnk4on?ref_src=twsrc%5Etfw">Tweets by tnk4on</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 # Links
