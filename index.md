@@ -7,7 +7,7 @@ My name is Shion Tanaka. I work as a Solution Architect for Red Hat at the Kyush
 
 # Links
 
-SNS: [Twitter](https://twitter.com/tnk4on) / [Facebook](https://www.facebook.com/tnk4on)
+SNS: [Twitter](https://twitter.com/tnk4on) / [Facebook](https://www.facebook.com/tnk4on) / [Linkedin](https://www.linkedin.com/in/tnk4on/)
 
 Blog: [Hatena Blog](https://tnk4on.hatenablog.com/) / [Qiita](https://qiita.com/tnk4on) / [note](https://note.com/tnk4on) 
 
