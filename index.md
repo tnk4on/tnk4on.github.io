@@ -3,6 +3,7 @@ My name is Shion Tanaka. I work as a Solution Architect for Red Hat at the Kyush
 
 # Activities
 [Year 2020: Speech,Articles,Slides,Video,Community Events](https://tnk4on.hatenablog.com/entry/2020/12/31/000000)
+
 [Year 2019: Speech,Workshop,Articles,Advent Calendar,Community Events](https://tnk4on.hatenablog.com/entry/2019/12/31/000000)
 
 
