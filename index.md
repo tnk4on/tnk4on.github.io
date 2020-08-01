@@ -16,8 +16,12 @@ Slide: [Speaker Deck](https://speakerdeck.com/tnk4on)
 
 Live & Video: [YouTube](https://www.youtube.com/channel/UCmJg-Nwox4ivLqmiP2Ca35w/featured)
 
-Book: [Red Hat OpenShift4 Mook 2019](http://redhat.lookbookhq.com/OCP4Intro_Mook)
+Book: 
+- [Software Desigh August 2020 (Article: Monthly Fedora Magazine No.4)](https://amzn.to/2DslHX6)
+- [Red Hat OpenShift4 Mook 2019](http://redhat.lookbookhq.com/OCP4Intro_Mook)
 
 Git: [GitHub](https://github.com/tnk4on)
 
-Other: [Amazon Wishlist](https://www.amazon.co.jp/hz/wishlist/ls/287KX2D6E940M)
+Other: 
+- [Amazon Wishlist](https://www.amazon.co.jp/hz/wishlist/ls/287KX2D6E940M)
+- [Amazon Author](https://www.amazon.co.jp/~/e/B08F3BSDHY)
