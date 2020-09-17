@@ -1,4 +1,5 @@
 ---
+title: Shion Tanaka (@tnk4on)
 tagline: This page is Shion Tanaka's website. 
 description: このページは田中司恩のウェブサイトです。田中司恩,たなかしおん,タナカシオン,Shion Tanaka,@tnk4on
 author:
