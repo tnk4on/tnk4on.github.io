@@ -1,3 +1,13 @@
+---
+tagline: This page is Shion Tanaka's website. 
+description: このページは田中司恩のウェブサイトです。田中司恩,たなかしおん,タナカシオン,Shion Tanaka,@tnk4on
+author:
+  twotter: tnk4on
+twitter:
+  username: tnk4on
+  card: summary
+---
+
 # Profile
 My name is Shion Tanaka. I work as a Solution Architect for Red Hat at the Kyushu Branch Office.
 
