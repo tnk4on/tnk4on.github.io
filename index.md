@@ -3,7 +3,7 @@ title: Shion Tanaka (@tnk4on)
 tagline: This page is Shion Tanaka's website. 
 description: このページは田中司恩のウェブサイトです。田中司恩,たなかしおん,タナカシオン,Shion Tanaka,@tnk4on
 author:
-  twotter: tnk4on
+  twitter: tnk4on
 twitter:
   username: tnk4on
   card: summary
@@ -21,7 +21,7 @@ My name is Shion Tanaka. I work as a Solution Architect for Red Hat at the Kyush
 
 SNS: [Twitter](https://twitter.com/tnk4on) / [Facebook](https://www.facebook.com/tnk4on) / [Linkedin](https://www.linkedin.com/in/tnk4on/) / [min.t](https://min.togetter.com/id/tnk4on)
 
-Blog: [Hatena Blog](https://tnk4on.hatenablog.com/) / [Qiita](https://qiita.com/tnk4on) / [note](https://note.com/tnk4on) 
+Blog: [Hatena Blog](https://tnk4on.hatenablog.com/) / [Qiita](https://qiita.com/tnk4on) / [note](https://note.com/tnk4on) / [Namaya Blog](https://namaya.jp/author/tnk4on/)
 
 Slide: [Speaker Deck](https://speakerdeck.com/tnk4on)
 
