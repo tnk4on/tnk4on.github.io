@@ -21,13 +21,14 @@ My name is Shion Tanaka. I work as a Solution Architect for Red Hat at the Kyush
 
 SNS: [Twitter](https://twitter.com/tnk4on) / [Facebook](https://www.facebook.com/tnk4on) / [Linkedin](https://www.linkedin.com/in/tnk4on/) / [min.t](https://min.togetter.com/id/tnk4on)
 
-Blog: [Hatena Blog](https://tnk4on.hatenablog.com/) / [Qiita](https://qiita.com/tnk4on) / [note](https://note.com/tnk4on) / [Namaya Blog](https://namaya.jp/author/tnk4on/)
+Blog: [Hatena Blog](https://tnk4on.hatenablog.com/) / [Zenn](https://zenn.dev/tnk4on) / [Qiita](https://qiita.com/tnk4on) / [note](https://note.com/tnk4on) / [Namaya Blog](https://namaya.jp/author/tnk4on/)
 
 Slide: [Speaker Deck](https://speakerdeck.com/tnk4on)
 
 Live & Video: [YouTube](https://www.youtube.com/channel/UCmJg-Nwox4ivLqmiP2Ca35w/featured)
 
 Book: 
+- [Software Desigh August 2020 (Article: Monthly Fedora Journal No.8)](https://amzn.to/35jKdof
 - [Software Desigh August 2020 (Article: Monthly Fedora Journal No.4)](https://amzn.to/3hVUpqL)
 - [Red Hat OpenShift4 Mook 2019](http://redhat.lookbookhq.com/OCP4Intro_Mook)
 
