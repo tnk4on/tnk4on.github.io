@@ -28,7 +28,7 @@ Slide: [Speaker Deck](https://speakerdeck.com/tnk4on)
 Live & Video: [YouTube](https://www.youtube.com/channel/UCmJg-Nwox4ivLqmiP2Ca35w/featured)
 
 Book: 
-- [Software Desigh August 2020 (Article: Monthly Fedora Journal No.8)](https://amzn.to/35jKdof
+- [Software Desigh August 2020 (Article: Monthly Fedora Journal No.8)](https://amzn.to/35jKdof)
 - [Software Desigh August 2020 (Article: Monthly Fedora Journal No.4)](https://amzn.to/3hVUpqL)
 - [Red Hat OpenShift4 Mook 2019](http://redhat.lookbookhq.com/OCP4Intro_Mook)
 
