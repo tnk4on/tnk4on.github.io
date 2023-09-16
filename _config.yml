@@ -2,7 +2,6 @@ title: Tanaka Shion
 logo: /assets/img/profile.png
 email: tnk4on at gmail.com
 description: 田中司恩のプロフィール、活動履歴、出版履歴、レジュメ
-image: /assets/img/profile.png
 show_downloads: false
 google_analytics: G-DV6RGRJH6X
 color-scheme: auto
@@ -10,6 +9,11 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/profile.png
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
