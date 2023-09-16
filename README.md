@@ -32,3 +32,13 @@
 # bundle update github-pages
 # bundle exec jekyll serve
 ```
+
+## OGP
+下記を_config.ymlに追記
+```
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/default-card.png
+```
