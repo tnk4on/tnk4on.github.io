@@ -42,3 +42,25 @@ defaults:
     values:
       image: /assets/images/default-card.png
 ```
+
+## モバイル表示時のプロフィール画像
+`/assets/css/style.scss`に下記を追記
+```
+.profile-picture {
+  height: 85px;
+  width: 85px;
+  position: relative;
+  margin: -10px 0 0 15px;
+  float: right;
+  border-radius: 50%;
+  p & {
+      padding: 0 0 0 0;
+      margin: 0 0 0 4px;
+  }
+  @media print, screen and (min-width: 961px) {
+      display: none !important;
+  }
+}
+```
+
+`index.md`に<`img class="profile-picture" src=" "`を追加
