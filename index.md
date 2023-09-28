@@ -18,13 +18,42 @@ layout: default
   - [出版社の書籍ページ](https://www.shuwasystem.co.jp/book/9784798070209.html)
 - [バージョン8&9両対応! Red Hat Enterprise Linux完全ガイド(2022/9/17 日経BP)](https://www.amazon.co.jp/dp/B0BF4DVCN3)
   - [出版社の書籍ページ](https://info.nikkeibp.co.jp/media/LIN/atcl/books/082200035/)
-- [日経Linux 2021年7月号(特集3 無料で使えるようになったRHEL8をとことん活用！)](https://www.amazon.co.jp//dp/B096RT3GWH/) 
+- [日経Linux 2021年7月号(特集3 無料で使えるようになったRHEL8をとことん活用！)](https://www.amazon.co.jp/dp/B096RT3GWH/) 
+  - [出版社の書籍ページ](https://info.nikkeibp.co.jp/media/LIN/atcl/mag/053100063/)
+- [シェルスクリプトマガジン vol.71](https://www.amazon.co.jp/dp/4904807685)
   - [出版社の書籍ページ](https://shell-mag.com/vol-71/)
+  - [Red HatのE-Book公開ページ](https://www.redhat.com/ja/engage/shell-script-magazine-s-202105281112)
 - [Software Design 2021年1月号(月刊Fedoraジャーナル【8】Fedoraで作るライブ配信環境)](https://www.amazon.co.jp/dp/B08Q82B3Y5/)
   - [出版社の書籍ページ](https://gihyo.jp/magazine/SD/archive/2021/202101)
 - [Software Design 2020年9月号(月刊Fedoraジャーナル【4】Fedora CoreOSとOKD 4)](https://www.amazon.co.jp/dp/B08F7H8WTY/)
   - [出版社の書籍ページ](https://gihyo.jp/magazine/SD/archive/2020/202009)
 - [Red Hat OpenShift4 Mook 2019](http://redhat.lookbookhq.com/OCP4Intro_Mook)
+
+## イベント登壇
+### 2021年
+- [OpenShift Commons Gathering Japan 2021](https://www.redhat.com/ja/explore/openshift/commons-gathering-ja)
+  - 【Nutanix x Red Hat対談】オレたちが考える最強のハイブリッドクラウドプラットフォーム
+- [Red Hat Forum 2021](https://www.redhat.com/ja/red-hat-forum-apac-2021)
+  - Podmanで始めるコンテナの世界 -Container journey to OpenShift-
+
+### 2020年
+- [July Tech Festa 2020](https://techfesta.connpass.com/event/175611/)
+  - [エンジニアなら誰でも配信を](https://speakerdeck.com/tnk4on/serial-experiments-live)
+- [VS Code Conference Japan 2020](https://vscode.connpass.com/event/184441/)
+  - [Remote Development with Podman](https://speakerdeck.com/tnk4on/remote-development-with-podman)
+- [VS Code Meetup #6 (オンライン)](https://vscode.connpass.com/event/176699/)
+  - [Remote-Containersの接続先ホストにFedora CoreOSを使う](https://speakerdeck.com/tnk4on/using-fedora-coreos-for-remote-containers)
+- [Meetup video shooting Meetup #3 - ライブ配信のキホン](https://mvsmjp.connpass.com/event/174780/)
+  - [ライブ配信での音量調整のTips](https://speakerdeck.com/tnk4on/tips-for-volume-control-on-live-broadcast)
+- [OpenShift Meetup Tokyo #8(夕方開催！特別編) インストール&レジストリ](https://openshift.connpass.com/event/174128/)
+  - [OpenShift 4のオンプレ導入の手引き](https://speakerdeck.com/tnk4on/install-ocp4-on-premises)<!-- OpenShiftをオンプレ環境に導入したいという要望は多くあると思います。そこで、OpenShift 4で提供されているUPIの手順を紹介します。インストール方法については一番基本的なベアメタルへの導入方法を解説します。また、プロキシや制限環境への導入のほか、自分で使えるお試し環境としてOKD4の導入についても紹介します。 -->
+- [#ふくばねてす node-3](https://fukubernetes.connpass.com/event/159429/)
+  - [OKD4を使ってみよう](https://speakerdeck.com/tnk4on/lets-use-okd4)
+
+### 2019年
+- [DX & Open Hybrid Cloud Day Kyushu 2019](https://events.redhat.com/profile/form/index.cfm?PKformID=0x85843abcd)
+  - DXに最適なアプリケーションプラットフォーム: OpenShift最新動向と今後の展開<!-- DXを実現する上で基盤となるITシステムにおいて、データやデジタル技術の活用が可能かどうかが重要です。また、要求や変化に迅速に対応できるデリバリースピードこそが、新たな価値創出の原点となります。本セッションでは、これらを実現するためのアプリケーションプラットフォームである、OpenShift Container Platform（OCP）についてお話しします。さらに、OCPの最新情報及び今後のロードマップについてご紹介します。 -->
+- [【福岡開催】Red Hat OpenShift 4 Hands-on Workshop 基礎編](https://events.redhat.com/profile/form/index.cfm?PKformID=0x86280abcd)
 
 ## 赤帽エンジニアブログ(執筆記事)
 - 2023-07-10: [QuarkusとPodman DesktopでJavaコンテナを管理する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/managing-java-containers-quarkus-and-podman-desktop)
