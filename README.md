@@ -64,3 +64,7 @@ defaults:
 ```
 
 `index.md`に<`img class="profile-picture" src=" "`を追加
+
+## Google Analytics
+
+[テーマ未設定の GitHub Pages に Google Analytics を設定する](https://zenn.dev/key_luvless/articles/d6b14182c0b4e0)
