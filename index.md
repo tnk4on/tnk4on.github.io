@@ -30,6 +30,10 @@ layout: default
 - [Red Hat OpenShift4 Mook 2019](http://redhat.lookbookhq.com/OCP4Intro_Mook)
 
 ## イベント登壇
+### 2023年
+- [Red Hat Tech Night 2023](https://ossbyredhat.connpass.com/event/297927/)
+  - [5分で分かる！ Podmanの日本語最新情報](https://speakerdeck.com/tnk4on/podmans-latest-news-in-japanese-at-5-min)
+
 ### 2021年
 - [OpenShift Commons Gathering Japan 2021](https://www.redhat.com/ja/explore/openshift/commons-gathering-ja)
   - 【Nutanix x Red Hat対談】オレたちが考える最強のハイブリッドクラウドプラットフォーム

@@ -25,11 +25,16 @@
 # bundle exec jekyll serve
 ```
 
+## GitHub Pages gem の更新
+gem自体を更新する場合に実行
+```
+# bundle update github-pages
+```
+
 ## ファイルの更新フロー
 - ファイル変更→アップデート
 ```
 # ctrl + c
-# bundle update github-pages
 # bundle exec jekyll serve
 ```
 
