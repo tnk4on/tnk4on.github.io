@@ -73,3 +73,11 @@ defaults:
 ## Google Analytics
 
 [テーマ未設定の GitHub Pages に Google Analytics を設定する](https://zenn.dev/key_luvless/articles/d6b14182c0b4e0)
+
+## inotifyを増やす
+
+```
+% podman machine ssh
+$ sudo sh -c "echo fs.inotify.max_user_watches=524288 >> /etc/sysctl.conf"
+$ sudo sysctl -p
+```

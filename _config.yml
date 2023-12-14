@@ -39,4 +39,4 @@ sidebar:
 # adding this avoids it
 github: [metadata]
 host: 0.0.0.0
-#port: 4001
+#port: 4000

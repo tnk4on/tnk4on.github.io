@@ -14,6 +14,7 @@ layout: default
 [podmanjp](https://twitter.com/podman_jp)）
 
 ## 執筆、出版
+- [Podman Advanced Pod-01：DockerからPodmanへの移行（2023/11/23 技術書典15）](https://techbookfest.org/product/sCq1qpfKnLLNRzaKCEJTi9)
 - [Podmanイン・アクション(2023/9/16 秀和システム)](https://www.amazon.co.jp/dp/B0CHVF8Y8F)
   - [出版社の書籍ページ](https://www.shuwasystem.co.jp/book/9784798070209.html)
 - [バージョン8&9両対応! Red Hat Enterprise Linux完全ガイド(2022/9/17 日経BP)](https://www.amazon.co.jp/dp/B0BF4DVCN3)
@@ -31,14 +32,16 @@ layout: default
 
 ## イベント登壇
 ### 2023年
+- [RHEL 101（Podman編）：次世代コンテナエンジンの基礎から使いこなす方法](https://www.redhat.com/ja/events/webinar/master-next-gen-container-engine)
+  - 資料：[2023年12月6日RHEL 101（Podman編）：次世代コンテナエンジンの基礎から使いこなす方法](https://tracks.redhat.com/l/2023-12-6-rhel-101-p)
 - [Red Hat Tech Night 2023](https://ossbyredhat.connpass.com/event/297927/)
-  - [5分で分かる！ Podmanの日本語最新情報](https://speakerdeck.com/tnk4on/podmans-latest-news-in-japanese-at-5-min)
+  - 資料：[5分で分かる！ Podmanの日本語最新情報](https://speakerdeck.com/tnk4on/podmans-latest-news-in-japanese-at-5-min)
 
 ### 2021年
 - [OpenShift Commons Gathering Japan 2021](https://www.redhat.com/ja/explore/openshift/commons-gathering-ja)
-  - 【Nutanix x Red Hat対談】オレたちが考える最強のハイブリッドクラウドプラットフォーム
+  - タイトル：【Nutanix x Red Hat対談】オレたちが考える最強のハイブリッドクラウドプラットフォーム
 - [Red Hat Forum 2021](https://www.redhat.com/ja/red-hat-forum-apac-2021)
-  - Podmanで始めるコンテナの世界 -Container journey to OpenShift-
+  - タイトル：Podmanで始めるコンテナの世界 -Container journey to OpenShift-
 
 ### 2020年
 - [July Tech Festa 2020](https://techfesta.connpass.com/event/175611/)
@@ -60,6 +63,8 @@ layout: default
 - [【福岡開催】Red Hat OpenShift 4 Hands-on Workshop 基礎編](https://events.redhat.com/profile/form/index.cfm?PKformID=0x86280abcd)
 
 ## 赤帽エンジニアブログ(執筆記事)
+- 2023-12-02: [Hyper-VでPodman machineを実行する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-machine-on-hyperv)
+- 2023-10-24: [Podman DesktopでSpring Bootアプリケーションをコンテナ化する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/containerize-spring-boot-application-podman-desktop)
 - 2023-07-10: [QuarkusとPodman DesktopでJavaコンテナを管理する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/managing-java-containers-quarkus-and-podman-desktop)
 - 2023-06-26: [Podman Desktop を使った Kubernetes コンテナーのデプロイとテスト - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/deploy-and-test-kubernetes-containers-using-podman-desktop)
 - 2023-05-10: [Apple Silicon搭載MacにシングルノードOpenShiftをインストールする（支援付きインストーラー編） - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/sno-on-arm-mac-ai)
