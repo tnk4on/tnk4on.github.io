@@ -7,6 +7,7 @@ layout: default
 [赤帽エンジニアブログ](https://rheb.hatenablog.com/)とは。
 >レッドハット株式会社のエンジニアがオープンソーステクノロジーについての最新の情報を発信するブログ。
 
+- 2024-01-11: [書籍「Podmanイン・アクション」の紹介 - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-in-action-ja)
 - 2023-12-02: [Hyper-VでPodman machineを実行する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-machine-on-hyperv)
 - 2023-10-24: [Podman DesktopでSpring Bootアプリケーションをコンテナ化する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/containerize-spring-boot-application-podman-desktop)
 - 2023-07-10: [QuarkusとPodman DesktopでJavaコンテナを管理する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/managing-java-containers-quarkus-and-podman-desktop)

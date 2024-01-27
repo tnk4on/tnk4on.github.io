@@ -1,0 +1,29 @@
+{
+	"name": "tnk4on.github.io",
+	"build": {
+		"dockerfile": "Containerfile"
+		//"args": { "USERNAME": "vscode" }
+	},
+	// Features to add to the dev container. More info: https://containers.dev/features.
+	// "features": {},
+
+	// Use 'forwardPorts' to make a list of ports inside the container available locally.
+	//"forwardPorts": ["4000:4000"],
+
+	// Use 'postCreateCommand' to run commands after the container is created.
+	//"postCreateCommand": ["bundle install","bundle exec jekyll serve"],
+
+	// Configure tool-specific properties.
+	// "customizations": {},
+	//"runArgs": ["--security-opt=label=disable"],
+
+	//,"containerEnv": {
+	//	"HOME": "/root"
+	//}
+	"workspaceFolder": "/workspaces",
+	//,"workspaceMount": "source=${localWorkspaceFolder},target=/workspaces,type=bind,consistency=cached"
+	"workspaceMount": "source=${localWorkspaceFolder},target=/workspaces,type=bind",
+	"remoteUser": "root"
+	//"containerUser": "vscode"
+	//,"containerUser": "root"
+}

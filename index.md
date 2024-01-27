@@ -31,6 +31,11 @@ layout: default
 - [Red Hat OpenShift4 Mook 2019](http://redhat.lookbookhq.com/OCP4Intro_Mook)
 
 ## イベント登壇
+### 2024年
+- [インフラエンジニアBooks 30分でわかる「Podmanイン・アクション」](https://infra-eng-books.connpass.com/event/303884/)
+  - 資料：[Speaker Deck](https://speakerdeck.com/tnk4on/infra-engineer-books-podman-in-action)
+  - 動画アーカイブ：[YouTube](https://youtu.be/ufTrB576A1U)
+
 ### 2023年
 - [RHEL 101（Podman編）：次世代コンテナエンジンの基礎から使いこなす方法](https://www.redhat.com/ja/events/webinar/master-next-gen-container-engine)
   - 資料：[2023年12月6日RHEL 101（Podman編）：次世代コンテナエンジンの基礎から使いこなす方法](https://tracks.redhat.com/l/2023-12-6-rhel-101-p)
@@ -63,6 +68,7 @@ layout: default
 - [【福岡開催】Red Hat OpenShift 4 Hands-on Workshop 基礎編](https://events.redhat.com/profile/form/index.cfm?PKformID=0x86280abcd)
 
 ## 赤帽エンジニアブログ(執筆記事)
+- 2024-01-11: [書籍「Podmanイン・アクション」の紹介 - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-in-action-ja)
 - 2023-12-02: [Hyper-VでPodman machineを実行する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-machine-on-hyperv)
 - 2023-10-24: [Podman DesktopでSpring Bootアプリケーションをコンテナ化する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/containerize-spring-boot-application-podman-desktop)
 - 2023-07-10: [QuarkusとPodman DesktopでJavaコンテナを管理する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/managing-java-containers-quarkus-and-podman-desktop)
