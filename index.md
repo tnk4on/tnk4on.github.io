@@ -32,6 +32,8 @@ layout: default
 
 ## イベント登壇
 ### 2024年
+- [OpenShift.Run - 究極で最強のテックカンファレンス-](https://openshift.connpass.com/event/310201/)
+  - 資料：[Podmanで推す OpenShift/Kubernetes入門](https://speakerdeck.com/tnk4on/introduction-to-openshift-kubernetes-by-podman)
 - [インフラエンジニアBooks 30分でわかる「Podmanイン・アクション」](https://infra-eng-books.connpass.com/event/303884/)
   - 資料：[Speaker Deck](https://speakerdeck.com/tnk4on/infra-engineer-books-podman-in-action)
   - 動画アーカイブ：[YouTube](https://youtu.be/ufTrB576A1U)
