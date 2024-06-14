@@ -32,6 +32,9 @@ layout: default
 
 ## イベント登壇
 ### 2024年
+- Podman Community Meeting, June 4, 2024
+  - 資料：[Rosetta Support (Podman v5.1) - Speaker Deck](https://speakerdeck.com/tnk4on/rosetta-support-podman-v5-dot-1)
+  - 動画アーカイブ：[34:30 - Rosetta in Podman v5.1](https://www.youtube.com/watch?v=YTLIrvmI1t4&t=2070s)
 - [OpenShift.Run - 究極で最強のテックカンファレンス-](https://openshift.connpass.com/event/310201/)
   - 資料：[Podmanで推す OpenShift/Kubernetes入門](https://speakerdeck.com/tnk4on/introduction-to-openshift-by-podman)
 - [インフラエンジニアBooks 30分でわかる「Podmanイン・アクション」](https://infra-eng-books.connpass.com/event/303884/)
@@ -70,14 +73,14 @@ layout: default
 - [【福岡開催】Red Hat OpenShift 4 Hands-on Workshop 基礎編](https://events.redhat.com/profile/form/index.cfm?PKformID=0x86280abcd)
 
 ## 赤帽エンジニアブログ(執筆記事)
+- 2024-06-14: [PodmanではじめるRed Hatのミドルウェア製品：Keycloak（2） - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-mw-keycloak-2)
+- 2024-06-13: [PodmanではじめるRed Hatのミドルウェア製品：Keycloak - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-mw-keycloak)
+- 2024-06-12: [PodmanではじめるRed Hatのミドルウェア製品：OpenJDK（2） - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-mw-openjdk-2)
+- 2024-06-11: [PodmanではじめるRed Hatのミドルウェア製品：OpenJDK - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-mw-openjdk)
+- 2024-05-30: [PodmanでRosettaを使う - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-rosetta)
 - 2024-01-11: [書籍「Podmanイン・アクション」の紹介 - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-in-action-ja)
 - 2023-12-02: [Hyper-VでPodman machineを実行する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-machine-on-hyperv)
 - 2023-10-24: [Podman DesktopでSpring Bootアプリケーションをコンテナ化する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/containerize-spring-boot-application-podman-desktop)
-- 2023-07-10: [QuarkusとPodman DesktopでJavaコンテナを管理する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/managing-java-containers-quarkus-and-podman-desktop)
-- 2023-06-26: [Podman Desktop を使った Kubernetes コンテナーのデプロイとテスト - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/deploy-and-test-kubernetes-containers-using-podman-desktop)
-- 2023-05-10: [Apple Silicon搭載MacにシングルノードOpenShiftをインストールする（支援付きインストーラー編） - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/sno-on-arm-mac-ai)
-- 2023-04-17: [Podmanをコンテナ内で動かす「Podman in Podman」の2つのポイント - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-in-podman)
-- 2023-04-04: [（電子書籍）「Podman in Action」の紹介 - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-in-action)
 
 [...全ての記事を見る](./rheb.html)
 
