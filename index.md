@@ -32,7 +32,7 @@ layout: default
 
 ## イベント登壇
 ### 2024年
-- Podman Community Meeting, June 4, 2024
+- [Podman Community Meeting, June 4, 2024](https://podman.io/community)
   - 資料：[Rosetta Support (Podman v5.1) - Speaker Deck](https://speakerdeck.com/tnk4on/rosetta-support-podman-v5-dot-1)
   - 動画アーカイブ：[34:30 - Rosetta in Podman v5.1](https://www.youtube.com/watch?v=YTLIrvmI1t4&t=2070s)
 - [OpenShift.Run - 究極で最強のテックカンファレンス-](https://openshift.connpass.com/event/310201/)
