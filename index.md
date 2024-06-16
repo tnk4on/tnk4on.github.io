@@ -13,6 +13,8 @@ layout: default
 最近はPodmanの開発コミュニティに参加して日々日本語での情報発信に努めている。（参照→
 [podmanjp](https://twitter.com/podman_jp)）
 
+執筆、登壇、お仕事のご連絡はメールまたは各SNSまで。
+
 ## 執筆、出版
 - [Podman Advanced Pod-01：DockerからPodmanへの移行（2023/11/23 技術書典15）](https://techbookfest.org/product/sCq1qpfKnLLNRzaKCEJTi9)
 - [Podmanイン・アクション(2023/9/16 秀和システム)](https://www.amazon.co.jp/dp/B0CHVF8Y8F)
@@ -37,13 +39,18 @@ layout: default
   - 動画アーカイブ：[34:30 - Rosetta in Podman v5.1](https://www.youtube.com/watch?v=YTLIrvmI1t4&t=2070s)
 - [OpenShift.Run - 究極で最強のテックカンファレンス-](https://openshift.connpass.com/event/310201/)
   - 資料：[Podmanで推す OpenShift/Kubernetes入門](https://speakerdeck.com/tnk4on/introduction-to-openshift-by-podman)
+- [PCキッティングの自動化事例とRed Hat Ansibleの最新情報](https://www.redhat.com/ja/events/webinar/pc-automation-rh-ansible)
+  - 動画アーカイブ：イベントページのフォームから申し込み
+  - 資料：[2024年3月13日 PCキッティングの自動化事例とRed Hat Ansibleの最新情報](https://www.redhat.com/tracks/l/2024-3-13-pc-red-hat)
 - [インフラエンジニアBooks 30分でわかる「Podmanイン・アクション」](https://infra-eng-books.connpass.com/event/303884/)
   - 資料：[Speaker Deck](https://speakerdeck.com/tnk4on/infra-engineer-books-podman-in-action)
   - 動画アーカイブ：[YouTube](https://youtu.be/ufTrB576A1U)
 
 ### 2023年
 - [RHEL 101（Podman編）：次世代コンテナエンジンの基礎から使いこなす方法](https://www.redhat.com/ja/events/webinar/master-next-gen-container-engine)
+  - 動画アーカイブ：イベントページのフォームから申し込み
   - 資料：[2023年12月6日RHEL 101（Podman編）：次世代コンテナエンジンの基礎から使いこなす方法](https://tracks.redhat.com/l/2023-12-6-rhel-101-p)
+- [Podmanハンズオン - connpass](https://redhat-open.connpass.com/event/295799/)
 - [Red Hat Tech Night 2023](https://ossbyredhat.connpass.com/event/297927/)
   - 資料：[5分で分かる！ Podmanの日本語最新情報](https://speakerdeck.com/tnk4on/podmans-latest-news-in-japanese-at-5-min)
 
