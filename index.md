@@ -80,14 +80,16 @@ layout: default
 - [【福岡開催】Red Hat OpenShift 4 Hands-on Workshop 基礎編](https://events.redhat.com/profile/form/index.cfm?PKformID=0x86280abcd)
 
 ## 赤帽エンジニアブログ(執筆記事)
+- 2024-07-29: [ゼロからはじめるOpenShift Virtualization（4）OpenShift Virtualizationのインストールと実行 - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/start-openshift-virt-04)
+- 2024-07-24: [ゼロからはじめるOpenShift Virtualization（3）共有ストレージの作成（NFS CSIドライバーの構築） - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/start-openshift-virt-03)
+- 2024-07-10: [【番外編】ゼロからはじめるOpenShift Virtualization（3）共有ストレージの作成（NFSプロビジョナーの構築） - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/start-openshift-virt-03-nfs-provisioner)
+- 2024-07-05: [ゼロからはじめるOpenShift Virtualization（2）OpenShiftインストール後の作業 - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/start-openshift-virt-02)
+- 2024-07-02: [ゼロからはじめるOpenShift Virtualization（1）OpenShiftのインストール - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/start-openshift-virt-01)
 - 2024-06-14: [PodmanではじめるRed Hatのミドルウェア製品：Keycloak（2） - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-mw-keycloak-2)
 - 2024-06-13: [PodmanではじめるRed Hatのミドルウェア製品：Keycloak - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-mw-keycloak)
 - 2024-06-12: [PodmanではじめるRed Hatのミドルウェア製品：OpenJDK（2） - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-mw-openjdk-2)
 - 2024-06-11: [PodmanではじめるRed Hatのミドルウェア製品：OpenJDK - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-mw-openjdk)
 - 2024-05-30: [PodmanでRosettaを使う - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-rosetta)
-- 2024-01-11: [書籍「Podmanイン・アクション」の紹介 - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-in-action-ja)
-- 2023-12-02: [Hyper-VでPodman machineを実行する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-machine-on-hyperv)
-- 2023-10-24: [Podman DesktopでSpring Bootアプリケーションをコンテナ化する - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/containerize-spring-boot-application-podman-desktop)
 
 [...全ての記事を見る](./rheb.html)
 

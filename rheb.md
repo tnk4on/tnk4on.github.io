@@ -7,6 +7,11 @@ layout: default
 [赤帽エンジニアブログ](https://rheb.hatenablog.com/)とは。
 >レッドハット株式会社のエンジニアがオープンソーステクノロジーについての最新の情報を発信するブログ。
 
+- 2024-07-29: [ゼロからはじめるOpenShift Virtualization（4）OpenShift Virtualizationのインストールと実行 - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/start-openshift-virt-04)
+- 2024-07-24: [ゼロからはじめるOpenShift Virtualization（3）共有ストレージの作成（NFS CSIドライバーの構築） - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/start-openshift-virt-03)
+- 2024-07-10: [【番外編】ゼロからはじめるOpenShift Virtualization（3）共有ストレージの作成（NFSプロビジョナーの構築） - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/start-openshift-virt-03-nfs-provisioner)
+- 2024-07-05: [ゼロからはじめるOpenShift Virtualization（2）OpenShiftインストール後の作業 - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/start-openshift-virt-02)
+- 2024-07-02: [ゼロからはじめるOpenShift Virtualization（1）OpenShiftのインストール - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/start-openshift-virt-01)
 - 2024-06-14: [PodmanではじめるRed Hatのミドルウェア製品：Keycloak（2） - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-mw-keycloak-2)
 - 2024-06-13: [PodmanではじめるRed Hatのミドルウェア製品：Keycloak - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-mw-keycloak)
 - 2024-06-12: [PodmanではじめるRed Hatのミドルウェア製品：OpenJDK（2） - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/podman-mw-openjdk-2)
