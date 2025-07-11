@@ -7,6 +7,7 @@ layout: default
 [赤帽エンジニアブログ](https://rheb.hatenablog.com/)とは。
 >レッドハット株式会社のエンジニアがオープンソーステクノロジーについての最新の情報を発信するブログ。
 
+- 2024-09-30: [ゼロからはじめるOpenShift Virtualization（5）vSphere仮想マシンの移行 - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/start-openshift-virt-05)
 - 2024-07-29: [ゼロからはじめるOpenShift Virtualization（4）OpenShift Virtualizationのインストールと実行 - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/start-openshift-virt-04)
 - 2024-07-24: [ゼロからはじめるOpenShift Virtualization（3）共有ストレージの作成（NFS CSIドライバーの構築） - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/start-openshift-virt-03)
 - 2024-07-10: [【番外編】ゼロからはじめるOpenShift Virtualization（3）共有ストレージの作成（NFSプロビジョナーの構築） - 赤帽エンジニアブログ](https://rheb.hatenablog.com/entry/start-openshift-virt-03-nfs-provisioner)
