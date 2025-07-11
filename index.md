@@ -34,6 +34,10 @@ layout: default
 
 ## イベント登壇
 ### 2024年
+- [OpenShift Lounge+ "TALKs" 〜 Virtのお供スペシャル〜 - connpass](https://openshift.connpass.com/event/337482/)
+  - 資料：[OpenShift Virtualizationのネットワーク構成を真剣に考えてみた](https://speakerdeck.com/tnk4on/openshift-virtualizations-network-configuration)
+- [第6回 Red Hat Tech Night in RHSC 2024 - connpass](https://ossbyredhat.connpass.com/event/328942/)
+  - 資料：[5分で完全理解！ゼロから始めるOpenShift Virtualization](https://speakerdeck.com/tnk4on/starting-from-zero-openshift-virtualization-at-5-min)
 - [Podman Community Meeting, June 4, 2024](https://podman.io/community)
   - 資料：[Rosetta Support (Podman v5.1) - Speaker Deck](https://speakerdeck.com/tnk4on/rosetta-support-podman-v5-dot-1)
   - 動画アーカイブ：[34:30 - Rosetta in Podman v5.1](https://www.youtube.com/watch?v=YTLIrvmI1t4&t=2070s)
